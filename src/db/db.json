@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "c2cacab9-e17e-4db7-9919-32cc5b469600",
+    "name": "Marlene Ortiz",
+    "phone": "620-905-5676 x1756",
+    "email": "Maurine44@hotmail.com",
+    "job": "Direct Operations Strategist"
+  },
+  {
+    "id": "282316d4-71f8-46f8-9505-260ea2b1ddd3",
+    "name": "Christopher Boyle",
+    "phone": "398.669.7454",
+    "email": "Abdullah.Sporer@hotmail.com",
+    "job": "Direct Marketing Coordinator"
+  },
+  {
+    "id": "cebaeee3-d550-4949-a888-ab17b19e2c07",
+    "name": "Casey Skiles PhD",
+    "phone": "863-611-5899 x92148",
+    "email": "Gardner_Hills@yahoo.com",
+    "job": "Corporate Accounts Facilitator"
+  },
+  {
+    "id": "87862249-2e9a-42b6-86cd-0b470e53533a",
+    "name": "Mr. Devin Haley-O'Hara",
+    "phone": "908-810-7062 x3981",
+    "email": "Aisha_Durgan@gmail.com",
+    "job": "Future Marketing Engineer"
+  },
+  {
+    "id": "ab975210-7329-4a18-86f6-f4f7394e87d6",
+    "name": "Troy Orn",
+    "phone": "915-716-3595",
+    "email": "Tianna.Cummerata56@hotmail.com",
+    "job": "Corporate Optimization Manager"
+  }
+]
